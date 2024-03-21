@@ -62,8 +62,7 @@ CLASS2COLOR: Optional[Dict[str, List[str]] or Literal["predefined"]] = {
 PAPER: Optional[Union[str, List[str], Dict[str, str]]] = "https://www.mdpi.com/2072-4292/14/16/3979"
 BLOGPOST: Optional[Union[str, List[str], Dict[str, str]]] = None
 REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = {
-    "Kaggle",
-    "https://www.kaggle.com/datasets/werus23/nevada-smoke-detection-data",
+    "Kaggle": "https://www.kaggle.com/datasets/werus23/nevada-smoke-detection-data",
 }
 
 CITATION_URL: Optional[str] = None
