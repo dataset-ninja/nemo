@@ -23,10 +23,10 @@ HIDE_DATASET = True  # set False when 100% sure about repo quality
 LICENSE: License = License.Apache_2_0(
     source_url="https://github.com/SayBender/Nemo/blob/main/LICENSE"
 )
-APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Environmental()]
+APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Forestry()]
 CATEGORY: Category = Category.Environmental()
 
-CV_TASKS: List[CVTask] = [CVTask.ObjectDetection(), CVTask.Identification()]
+CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [AnnotationType.ObjectDetection()]
 
 RELEASE_DATE: Optional[str] = None  # e.g. "YYYY-MM-DD"
