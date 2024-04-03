@@ -1,6 +1,6 @@
 Dataset **NEMO** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/K/6/fN/3JfKA99yu65iBjQ9TDGvJMS7uc0He4bpj3UxaEr7J03TV2gFeWvOV3oItjurxKgqfRIfukPp1OOJxDHgH9SAaZa19GYt8yNF75OyjbLK2tnaN6OH0VXJTwskW3JJ.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
